@@ -11,7 +11,7 @@ jobs:
     - name: Excavate
       uses: shovel-org/GithubActions@new.new
       env:
-        GITH_EMAIL: cabera.jakub@gmail.com
+        GITH_EMAIL: joaquinito2051@gmail.com
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         SCOOP_BRANCH: NEW
         SKIP_UPDATED: '1'
