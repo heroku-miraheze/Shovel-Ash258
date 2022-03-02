@@ -1,4 +1,4 @@
-version: "2.0"
+version: "2.1"
 description: Sordum's Defender Control. Disable Windows Defender completely.
 homepage: https://www.sordum.org/9480/
 license:
@@ -6,7 +6,7 @@ license:
   url: https://www.sordum.org/eula/
 changelog: ReadMe.txt
 url: https://www.sordum.org/files/download/d-control/dControl.zip#/cosi.cosi
-hash: 7437d7db6f3911678a307f06634a26acaaea06778dd5c027f94dbad4c084db40
+hash: 9007a212b9ea2005637bc7665d67c2a6f2f7ae824e72a0f87141d44e3af5e7dc
 extract_dir: dControl
 pre_install: |
   $splat = @{ 'ExtractDir' = $manifest.extract_dir; 'Switches' = '-psordum'; 'Removal' = $true }
