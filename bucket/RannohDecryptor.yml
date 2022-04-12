@@ -1,9 +1,9 @@
-version: 1.12.4.13
+version: 1.18.5.0
 description: Kaspersky's RannohDecryptor. Decrypt files infected with the 'Trojan-Ransom.Win32.Rannoh' malware.
 homepage: https://support.kaspersky.com/8547
 license: Freeware
 url: https://media.kaspersky.com/utilities/VirusUtilities/EN/rannohdecryptor.zip
-hash: 0aff22b39b85935e2f7d65bc21b0ce827a02a12c58373162b5a990035fc3d941
+hash: c2458712d6948708e38eb505a65e6b0adb9c16b1ccc2899b51467868775fb236
 bin: RannohDecryptor.exe
 shortcuts:
 - - RannohDecryptor.exe
