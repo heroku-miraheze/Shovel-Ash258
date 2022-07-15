@@ -1,10 +1,10 @@
-version: 1.9.1
+version: 1.9.2
 description: MiTeC JSON Viewer
 homepage: https://www.mitec.cz/jsonv.html
 license: Proprietary
 changelog: https://www.mitec.cz/Data/XML/data_jsonvvh.xml
 url: https://www.mitec.cz/Downloads/JSONView.zip
-hash: 70d54c034ce6b5b120dc10dc254e75c3e61c1de9aa496d790551a82d49697d90
+hash: 7b85cbcd736a288c0b5114571b9fbd51c4ba395be23ea85abb8095feb91b2bad
 bin: JSONView.exe
 shortcuts:
 - - JSONView.exe
